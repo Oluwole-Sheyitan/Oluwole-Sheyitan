@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oluwole-Sheyitan
 - 👀 I’m interested in github
-- 🌱 I’m currently learning pytohn
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on creating chatbots
 - 📫 How to reach me "oluwole@datasciencenigeria.ai"
 - 😄 Pronouns: ...
